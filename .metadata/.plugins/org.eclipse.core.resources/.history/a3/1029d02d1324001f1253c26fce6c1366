@@ -1,0 +1,21 @@
+package javase.core;
+
+public class ArrayConcept {
+
+	public static void main(String[] args) {
+		//declaration of array or creation of array
+		int a[] = new int[5];
+		a[0]  = 78;
+		a[1]  = 88;
+		a[2]  = 70;
+		a[3]  = 98;
+		a[4]  = 68;
+		
+		System.out.println(a[0]);
+		
+		//store marks of 5 students
+	
+		
+	}
+
+}

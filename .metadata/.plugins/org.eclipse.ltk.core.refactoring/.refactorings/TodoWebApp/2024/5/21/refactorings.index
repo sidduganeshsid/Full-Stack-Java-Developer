@@ -1,0 +1,28 @@
+1716190892389	Copy package
+1716190906178	Rename type 'TodoWebAppApplication'
+1716191271551	Delete element
+1716191700477	Copy package
+1716191714082	Delete element
+1716191798044	Delete element
+1716191803788	Copy file
+1716192201443	Copy file
+1716192321316	Copy package
+1716192336067	Delete element
+1716192338431	Delete element
+1716193150361	Copy file
+1716194391746	Delete element
+1716196588105	Copy file
+1716203202897	Rename resource 'commons'
+1716203244153	Copy file
+1716203376222	Copy file
+1716204980240	Copy package
+1716204986202	Delete element
+1716204989434	Delete element
+1716209707873	Extract method 'getLoggedInUsername'
+1716210295749	Extract local variable 'username'
+1716210306934	Extract local variable 'password'
+1716210338048	Extract method 'extracted'
+1716210370939	Inline local variable 'username'
+1716210374264	Inline local variable 'password'
+1716215616042	Copy compilation unit
+1716281583716	Rename type 'TodoWebAppApplication'

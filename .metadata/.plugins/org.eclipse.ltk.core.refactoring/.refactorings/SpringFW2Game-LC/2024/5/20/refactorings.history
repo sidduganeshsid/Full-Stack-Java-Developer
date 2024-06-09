@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.helloTecky.SpringFWGame.game&apos; to &apos;SpringFW1Game-TC/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;SpringFW2Game-LC&apos;&#x0D;&#x0A;- Destination element: &apos;SpringFW1Game-TC/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;SpringFW2Game-LC/src/main/java/com.helloTecky.SpringFWGame.game&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=SpringFW1Game-TC/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.helloTecky.SpringFWGame.game" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1715783856158" version="1.0"/>
+</session>

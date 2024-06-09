@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=TodoWebApp/C:\/Users\/siddu\/.m2\/repository\/org\/springframework\/security\/spring-security-config\/6.2.4\/spring-security-config-6.2.4.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.security=/=/maven.artifactId=/spring-security-config=/=/maven.version=/6.2.4=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.security.config(Customizer.class[Customizer" modifiers="1537" timestamp="1713202005000"/>
+    <typeInfo handle="=TodoWebApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sid.TodoWebApp.todo{TodoService.java[TodoService" modifiers="1" timestamp="1716294349666"/>
+    <typeInfo handle="=t63sbjpa/C:\/Users\/siddu\/.m2\/repository\/org\/hibernate\/orm\/hibernate-core\/6.4.4.Final\/hibernate-core-6.4.4.Final.jar=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate.orm=/=/maven.artifactId=/hibernate-core=/=/maven.version=/6.4.4.Final=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.hibernate.dialect(MySQL8Dialect.class[MySQL8Dialect" modifiers="1048609" timestamp="1707398464000"/>
+</typeInfoHistroy>

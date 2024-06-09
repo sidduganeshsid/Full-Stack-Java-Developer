@@ -1,0 +1,23 @@
+package core.java;
+
+public class BasicEvaluation1 {
+
+	public static void main(String[] args) {
+		int a = 25;
+		int b = 2;
+		int c = a/b;
+		float f = a/b;
+		
+		int a1 = 0;
+		int a2 = 0;
+		System.out.println(c);
+		System.out.println(f);//truncation or rounding to 0
+		
+		System.out.println(a1/a2); //exceptin
+		
+		double d1 = 0;
+		double d2 = 0;
+		System.out.println(d1/d2);
+	}
+
+}

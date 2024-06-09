@@ -1,0 +1,75 @@
+package javase.core;
+
+class Test
+{
+	int a,b,c; 
+	
+	//task will be brought into stack area for execution.
+	//noInput & noReturning
+//	void add()
+//	{
+//		a=1;
+//		b=2;
+//		c=a+b;
+//		System.out.println(c);
+//	}
+	
+	//inputNoReturning
+	void add(int a,int b)//parameters
+	{
+		int res = a+b;
+		System.out.println(res);
+	}
+	
+	//inputReturn
+	float add(float a,float b) {
+		return a+b;
+	}
+	
+	//noInputButReturns
+	int add() {
+		return 0;
+	}
+}
+
+public class All {
+
+	public static void main(String[] args) {
+		System.out.println("main() method is called");
+		Test t = new Test();
+		t.add();
+		t.add(10,30);//arguments
+		float addedValue = t.add(23.2f,12.2f);
+		
+		byte b = 1;
+		short s = 2;
+		int i = 4;
+		long l = 8l;
+		float f = 4f;
+		double d = 8;
+		char c = 'a';
+		boolean bo = false;
+		
+//		System.out.println(s1); //not accessible
+		String s1 = "HELLO";
+		String s2 = "Hello"; 
+		String s3 = "Hello"; System.out.println(s2==s3);//compares references 
+		System.out.println(s2.equals(s3)); //compares content
+		String s4 = new String("Hello");
+		String s5 = new String("hello");
+		
+		String s6 = "Hello";
+		s6.concat(" World!"); System.out.println(s6);
+		
+		StringBuilder s7 = new StringBuilder("Hello");
+		StringBuilder s8 = new StringBuilder("Hello");
+		System.out.println(s7==s8);//compares references 
+		System.out.println(s7.equals(s8)); //compares content
+		s7.append(" World!"); System.out.println(s7);
+		
+		
+		
+
+	}
+
+}

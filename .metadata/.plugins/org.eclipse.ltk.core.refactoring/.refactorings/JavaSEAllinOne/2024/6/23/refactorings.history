@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;java.core&apos; to &apos;javase.core&apos;&#x0D;&#x0A;- Original project: &apos;JavaSEAllinOne&apos;&#x0D;&#x0A;- Original element: &apos;JavaSEAllinOne/src/java.core&apos;&#x0D;&#x0A;- Renamed element: &apos;JavaSEAllinOne/src/javase.core&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;java.core&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;java.core" name="javase.core" qualified="false" references="true" stamp="1717666951918" textual="false" version="1.0"/>
+</session>

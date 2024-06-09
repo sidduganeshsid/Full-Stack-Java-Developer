@@ -1,0 +1,14 @@
+package javase.core;
+
+public class ClassInfo {
+	
+	//constructor
+	
+	//static final
+	
+	//instance variables
+	//instance block
+	//instance methods
+
+	//inner class
+}

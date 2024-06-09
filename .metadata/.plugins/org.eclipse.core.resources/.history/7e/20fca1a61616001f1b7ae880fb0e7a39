@@ -1,0 +1,10 @@
+package com.jpahibernate.t63sbjpa.course.springdatajpa;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.jpahibernate.t63sbjpa.course.Course;
+
+public interface CourseSpringDataJpaRepository extends JpaRepository<Course, Long>{
+	
+
+}

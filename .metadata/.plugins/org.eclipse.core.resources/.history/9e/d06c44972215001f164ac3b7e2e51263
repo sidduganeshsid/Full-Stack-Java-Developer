@@ -1,0 +1,19 @@
+package com.noob2tecky.tsbcourse;
+
+import java.util.Arrays;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class CourseController {
+	
+	public CourseController() {
+		public List<Course> retrieveAllCourses(){
+			Arrays.asList(
+					new Course(1,"Abdul Bari","Java SE");
+					new Course(2,"Ranga Karnam","Spring Framework and Spring Boot");
+					);
+		}
+	}
+
+}

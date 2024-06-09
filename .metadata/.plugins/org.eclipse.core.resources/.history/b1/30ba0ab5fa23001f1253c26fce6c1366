@@ -1,0 +1,46 @@
+package javase.core;
+
+class Test
+{
+	int a,b,c;
+	
+	//task will be brought into stack area for execution.
+	//noInput & noReturning
+//	void add()
+//	{
+//		a=1;
+//		b=2;
+//		c=a+b;
+//		System.out.println(c);
+//	}
+	
+	//inputNoReturning
+	void add(int a,int b)//parameters
+	{
+		int res = a+b;
+		System.out.println(res);
+	}
+	
+	//inputReturn
+	float add(int a,float b) {
+		return a+b;
+	}
+	
+	//noInputButReturns
+	int add() {
+		
+	}
+}
+
+public class All {
+
+	public static void main(String[] args) {
+		System.out.println("main() method is called");
+		Test t = new Test();
+		t.add();
+		t.add(10,30);//arguments
+		
+
+	}
+
+}

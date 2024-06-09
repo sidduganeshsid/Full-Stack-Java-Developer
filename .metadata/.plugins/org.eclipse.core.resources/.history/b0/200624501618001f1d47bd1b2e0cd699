@@ -1,0 +1,3 @@
+spring.application.name=ResfulWebServicesApplication
+
+logging.level.org.springframework=debug

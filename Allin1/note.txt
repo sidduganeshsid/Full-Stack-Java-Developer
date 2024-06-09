@@ -1,0 +1,24 @@
+Spring Boot 
+
+STARTER PROJECTS
+
+AUTO CONFIGURATION
+
+DEV TOOLS
+
+PRODUCTION READY
+Profiles - dev,qa,stage,prod
+
+logging levels
+trace = prints everything
+debug = pring alot of logs
+info = prints all the thing at info level
+warning
+error = only errors and exceptions
+off
+
+DI
+spring web
+spring data JDBC
+spring data JPA
+H2 database : spring.h2.console.enabled=true

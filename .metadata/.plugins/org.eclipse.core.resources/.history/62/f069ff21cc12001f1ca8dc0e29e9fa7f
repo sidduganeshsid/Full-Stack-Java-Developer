@@ -1,0 +1,26 @@
+package com.helloTecky.SpringFWGame;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+
+@SpringBootApplication
+public class SpringFwGameApplication {
+
+	public static void main(String[] args) {
+		//create spring context (launch)
+		var context = new AnnotationConfigApplicationContext(HelloWorldConfiguration.class);
+		
+		//2 configure the things that spring has to manage- @Configuration
+		//HelloWorldConfiguration - @Configuration
+		
+		//first - @Bean
+		//3: Retrieving Beans managed by the spring.
+		System.out.println(context.getBean("first"));
+		//spring is managing a specific object "first" for us.
+		
+		System.out.println(context.getBean("person"));
+	}
+
+}

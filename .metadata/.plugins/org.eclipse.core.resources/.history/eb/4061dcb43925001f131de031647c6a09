@@ -1,0 +1,22 @@
+package javase.oops;
+
+class Father
+{
+	static float money = 3_00_000f;
+}
+class Son extends Father{
+//	static float money;
+
+}
+
+
+public class Inheritance {
+
+	public static void main(String[] args) {
+		
+		Son s = new Son();
+		System.out.println(s.money);
+		
+	}
+
+}
