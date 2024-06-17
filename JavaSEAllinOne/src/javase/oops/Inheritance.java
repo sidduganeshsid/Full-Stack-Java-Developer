@@ -41,6 +41,31 @@ public class Inheritance {
 
 }
 
+class Interest
+{
+	
+}
+class PersonalLoanInterest extends Interest
+{
+	
+}
+
+class Loan
+{
+	public Interest disp() {
+		Interest it = new Interest();
+		return it;
+	}
+	
+}
+class PersonalLoan extends Loan
+{
+	public PersonalLoanInterest disp() {
+		PersonalLoanInterest pli = new PersonalLoanInterest();
+		return pli;
+	}
+}
+
 /**
  * single inheritance is possible
  * object class is the parent of all the classes.
@@ -57,3 +82,5 @@ public class Inheritance {
  * inheritance supports 
 
 */
+
+
