@@ -2960,3 +2960,40 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestHello reference
 2024-06-16 19:14:34,608 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
 2024-06-16 19:14:34,762 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-06-16 19:14:34,774 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\siddu\OneDrive\Desktop\SpringFW&Boot@Udemy\tsb-course\tsb-course\src\test\resources
+2024-06-17 10:17:48,592 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-18 07:04:57,915 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-06-20 11:16:24,858 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-06-20 12:18:54,680 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-20 12:18:54,838 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-20 12:18:54,866 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\siddu\OneDrive\Desktop\SpringFW&Boot@Udemy\ResfulWebServicesApplication\ResfulWebServicesApplication\src\test\resources
+2024-06-20 12:19:02,165 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-20 12:19:02,252 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-20 12:19:02,268 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\siddu\OneDrive\Desktop\SpringFW&Boot@Udemy\SpringFW11HelloWorld\src\test\resources
+2024-06-20 12:19:05,399 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-20 12:19:05,467 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-20 12:19:05,481 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\siddu\OneDrive\Desktop\SpringFW&Boot@Udemy\SpringFW1Game-TC\src\test\resources
+2024-06-20 12:19:09,197 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-20 12:19:09,291 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-20 12:19:09,304 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\siddu\OneDrive\Desktop\SpringFW&Boot@Udemy\SpringFW2Game-LC\src\test\resources
+2024-06-20 12:19:12,261 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-20 12:19:12,338 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-20 12:19:12,353 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\siddu\OneDrive\Desktop\SpringFW&Boot@Udemy\SpringFW2Game-LC-withSpringFW1MangaeObjects\src\test\resources
+2024-06-20 12:19:15,498 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-20 12:19:15,581 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-20 12:19:15,595 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\siddu\OneDrive\Desktop\SpringFW&Boot@Udemy\SpringFW2Game-LC-withSpringFW2CreateObjectBySpring\src\test\resources
+2024-06-20 12:19:18,400 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-20 12:19:18,487 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-20 12:19:18,500 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\siddu\OneDrive\Desktop\SpringFW&Boot@Udemy\SpringFW2Gz-DI@AutoWired\src\test\resources
+2024-06-20 12:19:21,218 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-20 12:19:21,305 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-20 12:19:21,320 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\siddu\OneDrive\Desktop\SpringFW&Boot@Udemy\SpringFWz1BusinessCalculation\src\test\resources
+2024-06-20 12:19:29,544 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-20 12:19:29,659 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-06-20 12:19:29,728 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\siddu\OneDrive\Desktop\SpringFW&Boot@Udemy\TodoWebApp2\src\test\resources
+2024-06-20 12:19:34,465 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-20 12:19:34,620 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-20 12:19:34,634 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\siddu\OneDrive\Desktop\SpringFW&Boot@Udemy\t63sbjpa\t63sbjpa\src\test\resources
+2024-06-20 12:19:39,567 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-06-20 12:19:39,784 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-20 12:19:39,800 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\siddu\OneDrive\Desktop\SpringFW&Boot@Udemy\tsb-course\tsb-course\src\test\resources
+2024-06-21 10:10:46,035 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

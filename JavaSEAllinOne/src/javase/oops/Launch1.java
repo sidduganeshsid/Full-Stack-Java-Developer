@@ -25,6 +25,10 @@ class SMPS {
 }
 
 class Motherboard {
+	
+	public void does() {
+		System.out.println("A motherboard is the MAIN printed circuit board (PCB) in a computer. The motherboard is a computer's central communications backbone connectivity point, through which all components and external peripherals connect.");
+	}
 	//inner class (rarely used)
 	class Chipset {
 
